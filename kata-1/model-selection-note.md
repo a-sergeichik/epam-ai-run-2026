@@ -4,7 +4,7 @@
 **Author:** Andrei Siarheichyk — Architecture Team
 **Project:** Headless commerce consolidation (course case study — client details omitted per project policy)
 **Task:** Draft a first-cut service-boundary ADR when carving a capability (here: Cart) out of a regional .NET monolith under a strangler-fig mandate.
-**Committed location:** /Users/Andrei_Siarheichyk/model-selection-note.md (with reference outputs `ADR-001-cart-service-boundary.md` and `adr-001-cart-service-boundary-v2.md` alongside)
+**Committed location:** https://github.com/a-sergeichik/epam-ai-run-2026/blob/main/kata-1/model-selection-note.md
 
 ---
 
