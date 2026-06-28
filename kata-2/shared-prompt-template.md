@@ -1,4 +1,4 @@
-# Prompt Template: [Task Name]
+# Prompt Template
 
 **Date:** 2026-06-28
 **Author:** Andrei Siarheichyk — Architecture Team
